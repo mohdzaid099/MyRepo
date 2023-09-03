@@ -1,0 +1,29 @@
+/* Home.module.css */
+.background {
+  background-image: url("https://images.template.net/93675/white-pattern-background-dqkn7.jpg"); /* Replace with your image URL */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Ensure the background covers the entire viewport height */
+}
+
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.card {
+  width: 18rem;
+  margin: 10px;
+  text-align: center;
+  
+ 
+ 
+}
+
+.cardLink {
+  text-decoration: none;
+  color: whitesmoke;
+}
